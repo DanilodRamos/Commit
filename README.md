@@ -1,6 +1,6 @@
 # Olá , eu sou Danilo Ramos!👋
-[![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dithan.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-de-sousa-rocha/)
+[![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/DanilodRamos/PortifolioMvc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-ramos-b01315250/)
 
 ![Dithan GitHub stats](https://github-readme-stats.vercel.app/api?username=dithan&show_icons=true&theme=tokyonight)
 ## Principais tecnologias que utilizo 🔧:
