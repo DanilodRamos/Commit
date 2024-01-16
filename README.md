@@ -12,5 +12,6 @@
 
 [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dithan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Sem título](https://github.com/DanilodRamos/Commit/assets/116719740/13530c1b-1fd0-4809-a7f1-f299548f4a95)
+
 
